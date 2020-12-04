@@ -30,6 +30,18 @@ DerivedData/
 *.dSYM.zip
 *.dSYM
 
+
+/./LGFlutterPod/ios_frameworks
+/./LGFlutterPod/flutter_module_for_ios/build
+/./LGFlutterPod/flutter_module_for_ios/ios_frameworks
+/./LGFlutterPod/flutter_module_for_ios/.ios
+/./LGFlutterPod/flutter_module_for_ios/.android
+/./LGFlutterPod/flutter_module_for_ios/.dart_tool
+/./LGFlutterPod/flutter_module_for_ios/.idea
+
+
+
+
 # CocoaPods
 #
 # We recommend against adding the Pods directory to your .gitignore. However
