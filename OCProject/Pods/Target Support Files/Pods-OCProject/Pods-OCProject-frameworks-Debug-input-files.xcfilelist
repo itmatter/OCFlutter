@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-OCProject/Pods-OCProject-frameworks.sh
+${PODS_ROOT}/../../LGFlutterPod/ios_frameworks/App.framework
+${PODS_ROOT}/../../LGFlutterPod/ios_frameworks/Flutter.framework
+${PODS_ROOT}/../../LGFlutterPod/ios_frameworks/shared_preferences.framework

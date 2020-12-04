@@ -1,0 +1,16 @@
+PODS:
+  - LGFlutterPod (0.1.0)
+
+DEPENDENCIES:
+  - LGFlutterPod (from `../LGFlutterPod`)
+
+EXTERNAL SOURCES:
+  LGFlutterPod:
+    :path: "../LGFlutterPod"
+
+SPEC CHECKSUMS:
+  LGFlutterPod: 0a719de96dad0843e9192d2fd0a9db6191fa4f92
+
+PODFILE CHECKSUM: 32d937c57efd09987fec944428d62711a4276932
+
+COCOAPODS: 1.9.3

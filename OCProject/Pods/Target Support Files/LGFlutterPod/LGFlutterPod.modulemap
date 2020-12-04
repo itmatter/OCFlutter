@@ -1,0 +1,6 @@
+framework module LGFlutterPod {
+  umbrella header "LGFlutterPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
